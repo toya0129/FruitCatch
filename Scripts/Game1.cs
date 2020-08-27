@@ -187,7 +187,6 @@ namespace CatchGame
 
                     if (now_input_key == Keys.Space)
                     {
-                        Console.WriteLine("スペーーーーース");
                         GameEnd();
                     }
 
