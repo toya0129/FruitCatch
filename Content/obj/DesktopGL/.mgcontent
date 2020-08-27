@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/bugs/apple_dummy.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/bugs/bug.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/bugs/bug_bee.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/bugs/bug_spider.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/fruits/apple.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/fruits/grape.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/fruits/orange.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/fruits/strawberry.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/fruits/suika.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/introduction/introduction_1.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/introduction/introduction_2.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/introduction/introduction_3.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/introduction/introduction_4.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/items/item_crystal.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/mark_heart.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/players/dog.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/0.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/1.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/2.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/3.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/4.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/5.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/6.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/7.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/8.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/9.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/minus.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/next_navi.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/result.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/result_text.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/score.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/score_unit.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/sec.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/time.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/title.png</File>
+    <File>/Users/toya/Project/Application/CatchGame/Content/images/text/title_text.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>images/bugs/dummy_apple.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

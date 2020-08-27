@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{81979FE8-74E1-4A17-873D-9FCA95284058}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scripts/GameScene/ObjectGenerator.cs">
+    <Files>
+      <File FileName="Scripts/Game1.cs" Line="12" Column="1" />
+      <File FileName="Scripts/DataControl.cs" Line="85" Column="34" NotebookId="1" />
+      <File FileName="Scripts/GameScene/ObjectGenerator.cs" Line="9" Column="19" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CatchGame" expanded="True">
+            <Node name="CatchGame" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Content" expanded="True">
+                <Node name="images" expanded="True" />
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="GameScene" expanded="True">
+                  <Node name="ObjectGenerator.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CatchGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
